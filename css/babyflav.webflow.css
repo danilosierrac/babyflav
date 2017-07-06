@@ -8,6 +8,7 @@
 
 .important-text {
   display: block;
+  max-width: 1280px;
   margin: 0px auto 200px 18px;
   padding-top: 0px;
   border-right: 0px solid #000;
@@ -38,8 +39,10 @@
 }
 
 .text-block-2 {
+  width: 80%;
+  max-width: 1280px;
   margin-top: 2px;
-  margin-left: 55px;
+  margin-left: 50px;
   font-family: Lato, sans-serif;
   font-size: 36px;
   line-height: 40px;
@@ -52,6 +55,7 @@
 }
 
 .text-block-3 {
+  max-width: 1280px;
   margin-top: 10px;
   margin-right: 9px;
   font-size: 19px;
@@ -64,6 +68,7 @@
 }
 
 .text-block-4 {
+  max-width: 1280px;
   text-align: center;
 }
 
@@ -75,6 +80,7 @@
 }
 
 .text-block-5 {
+  max-width: 1280px;
   margin-top: 67px;
   font-family: Hemingway, sans-serif;
   font-size: 100px;
